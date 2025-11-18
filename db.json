@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Alex",
+            "sirname": "Robocode",
+            "photo_url": "test",
+            "balance": 1000
+        },
+        {
+
+        },
+        {
+            
+        }
+    ]
+}
