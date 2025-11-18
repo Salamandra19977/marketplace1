@@ -8,7 +8,11 @@
             "balance": 1000
         },
         {
-
+            "id": 3,
+            "name": "Andrii",
+            "sirname": "Ryzhykh",
+            "photo_url": "cool",
+            "balance": "5000"
         },
         {
             
