@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Alex",
-            "sirname": "Robocode",
+            "surname": "Robocode",
             "photo_url": "test",
             "balance": 1000
         },
@@ -11,7 +11,11 @@
 
         },
         {
-            
+            "id": 3,
+            "name": "Vadym",
+            "surname": "Bielov",
+            "photo_url": "the_one",
+            "balance": 1000000
         }
     ]
 }
