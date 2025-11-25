@@ -61,5 +61,13 @@
            "author_id": 2,
            "photo_url": "https://anser.in.ua/content/images/49/62x78l80nn0/riznokolorovyi-neon-dlia-dekoru-pulse-smart-53858086342041.webp"
         },  
+        {
+           "id": 3,
+           "name": "Монітор 25 дюймів",
+           "description": "Якісний монітор",
+           "price": 7500,
+           "author_id": 3,
+           "photo_url": "https://content1.rozetka.com.ua/goods/images/big/575065161.jpg"
+        },  
     ]
 }
