@@ -75,6 +75,14 @@
            "price": 7500,
            "author_id": 3,
            "photo_url": "https://content1.rozetka.com.ua/goods/images/big/575065161.jpg"
-        },  
+        },
+        {
+           "id": 3,
+           "name": "Клавіатура механічна",
+           "description": "Якісна клавіатура",
+           "price": 4231,
+           "author_id": 6,
+           "photo_url": "https://ae04.alicdn.com/kf/Se8333d6c5de849cca2443672c6075fd76.jpg_640x640.jpg"
+        },
     ]
 }
