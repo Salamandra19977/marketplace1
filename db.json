@@ -42,6 +42,13 @@
             "sirname": "Zelenyi",
             "photo_url": "https://i.pinimg.com/736x/a8/70/fb/a870fb8bd813a54cadffa8951aaabf3a.jpg",
             "balance": 1600
+        },
+        {
+            "id": 6,
+            "name": "Andrey",
+            "sirname": "Tkachenko",
+            "photo_url": "#",
+            "balance": 3112
         }
     ],
     "products" : [
@@ -60,6 +67,38 @@
            "price": 1250,
            "author_id": 2,
            "photo_url": "https://anser.in.ua/content/images/49/62x78l80nn0/riznokolorovyi-neon-dlia-dekoru-pulse-smart-53858086342041.webp"
+        },  
+        {
+           "id": 3,
+           "name": "Монітор 25 дюймів",
+           "description": "Якісний монітор",
+           "price": 7500,
+           "author_id": 3,
+           "photo_url": "https://content1.rozetka.com.ua/goods/images/big/575065161.jpg"
         },
+        {
+           "id": 4,
+           "name": "Клавіатура механічна",
+           "description": "Якісна клавіатура",
+           "price": 4231,
+           "author_id": 6,
+           "photo_url": "https://ae04.alicdn.com/kf/Se8333d6c5de849cca2443672c6075fd76.jpg_640x640.jpg"
+        },
+        {    
+            "id": 5,
+            "name": "AT-AT™ Lego",
+            "description": "This is the AT-AT (75313) that every LEGO® Star Wars™ fan has been waiting for. This epic Ultimate Collector Series build-and-display model features posable legs and head, cannons with a realistic recoil action, rotating cannons, bomb-drop hatch and a hook to attach to Luke Skywalker’s line, just like in the Battle of Hoth.",
+            "price": 60000,
+            "author_id": 4,
+            "photo_url": "https://www.lego.com/cdn/cs/set/assets/blt2c75f7c81f1e3871/75313_Box1_v29.jpg?format=webply&fit=bounds&quality=70&width=800&height=800&dpr=1.5"
+        },
+        {
+           "id": 6,
+           "name": "Мобільний телефон Apple iPhone 16e 128GB White",
+           "description": "Екран (6.1″, OLED (Super Retina XDR), 2532x1170) / Apple A18 / основна камера: 48 Мп, фронтальна камера: 12 Мп / 128 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2х СІМ-карт (Nano-SIM, eSIM) / iOS 18",
+           "price": 10000,
+           "author_id": 5,
+           "photo_url": "https://content1.rozetka.com.ua/goods/images/big/518377501.jpg"
+        }
     ]
 }
