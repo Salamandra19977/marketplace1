@@ -54,7 +54,12 @@
             "photo_url": "https://4club.com.ua/images/ab__webp/thumbnails/550/450/detailed/311/%D0%9D%D0%B0%D1%80%D1%83%D0%B6%D0%BD%D1%8B%D0%B5_%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D1%8B_LED_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D1%8B_OUTDOOR.webp"
         },
         {
-            
+            "id": 2,
+            "name": "Зовнішні світлодіодні екрани LED екрани OUTDOOR",
+            "description": "This is the AT-AT (75313) that every LEGO® Star Wars™ fan has been waiting for. This epic Ultimate Collector Series build-and-display model features posable legs and head, cannons with a realistic recoil action, rotating cannons, bomb-drop hatch and a hook to attach to Luke Skywalker’s line, just like in the Battle of Hoth.",
+            "price": 60000,
+            "author_id": 4,
+            "photo_url": "https://www.lego.com/cdn/cs/set/assets/blt2c75f7c81f1e3871/75313_Box1_v29.jpg?format=webply&fit=bounds&quality=70&width=800&height=800&dpr=1.5"
         }
     ]
 }
