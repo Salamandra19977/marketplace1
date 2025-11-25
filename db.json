@@ -36,5 +36,12 @@
             "photo_url": "#",
             "balance": 1000
         }
+        {
+            "id": 5,
+            "name": "Khristyian",
+            "sirname": "Zelenyi",
+            "photo_url": "https://i.pinimg.com/736x/a8/70/fb/a870fb8bd813a54cadffa8951aaabf3a.jpg",
+            "balance": 1600
+        }
     ]
 }
