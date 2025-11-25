@@ -54,7 +54,12 @@
             "photo_url": "https://4club.com.ua/images/ab__webp/thumbnails/550/450/detailed/311/%D0%9D%D0%B0%D1%80%D1%83%D0%B6%D0%BD%D1%8B%D0%B5_%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D1%8B_LED_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D1%8B_OUTDOOR.webp"
         },
         {
-            
-        }
+           "id": 2,
+           "name": "Різнокольоровий неон для декору Pulse Smart 10 метрів",
+           "description": "Додайте кольору та життя до вашого простору з інноваційною гнучкою неоновою стрічкою Smart Life Colorful, яка здатна змінити атмосферу будь-якого приміщення!",
+           "price": 1250,
+           "author_id": 2,
+           "photo_url": "https://anser.in.ua/content/images/49/62x78l80nn0/riznokolorovyi-neon-dlia-dekoru-pulse-smart-53858086342041.webp"
+        },  
     ]
 }
