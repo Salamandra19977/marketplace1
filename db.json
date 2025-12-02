@@ -37,7 +37,7 @@
             "balance": 1000
         },
         {
-            "id": 5,
+            "id": 7,
             "name": "Khristyian",
             "sirname": "Zelenyi",
             "photo_url": "https://i.pinimg.com/736x/a8/70/fb/a870fb8bd813a54cadffa8951aaabf3a.jpg",
@@ -97,7 +97,7 @@
            "name": "Мобільний телефон Apple iPhone 16e 128GB White",
            "description": "Екран (6.1″, OLED (Super Retina XDR), 2532x1170) / Apple A18 / основна камера: 48 Мп, фронтальна камера: 12 Мп / 128 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2х СІМ-карт (Nano-SIM, eSIM) / iOS 18",
            "price": 10000,
-           "author_id": 5,
+           "author_id": 7,
            "photo_url": "https://content1.rozetka.com.ua/goods/images/big/518377501.jpg"
         },
         {
